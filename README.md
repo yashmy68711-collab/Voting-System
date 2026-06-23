@@ -53,8 +53,4 @@ python-voting-system/
 * Total votes counter
 * GUI version
 
----
 
-## 👨‍💻 Author
-
-Made with Python for learning and practice.
