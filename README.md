@@ -43,14 +43,4 @@ python-voting-system/
 │── README.md
 ```
 
----
-
-## 🔮 Future Improvements
-
-* Prevent duplicate voting
-* Vote history
-* Tie detection
-* Total votes counter
-* GUI version
-
 
